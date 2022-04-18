@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+}
+
+/* Solutions with H1 Only */
+
+h1 {
+    background-color: #281B2D;
+    font-size: 72px;
+    text-align: center;
+    margin-top: 0;
+    padding: 25px 0;
+    color: #fff
+}
+
+a {
+    color: #9138B7;
+}
+
+a:hover {
+    color: #fff;
+}
+
+/* Solution with header */
+
+/* header {
+    background-color: #281B2D;
+    margin-top: 0;
+    padding: 25px 0;
+    color: #fff
+}
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+    margin: 0;
+} */
+
+.subhead {
+    background-color: #281B2D;
+    border-bottom: 5px solid #00C54C;
+    font-size: 48px;
+    padding: 20px;
+    color: #FCD801;
+    margin-top: 0;
+}
+
+.strong {
+    color: #fff;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.columns {
+    display: flex;
+}
+
+.main-content {
+    width: 65%;
+    margin-right: 5%;
+}
+
+.col-left > img {
+    width: 300px;
+}
+
+.col-right {
+    margin-left: 25px;
+}
+
+.sidebar {
+    width: 30%;
+    background-color: #9ae84f;
+    padding: 15px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.source {
+    font-size: 10px;
+}
+
+/* .source > a {
+    color: #9138B7;
+} */
